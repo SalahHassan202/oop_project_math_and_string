@@ -1,4 +1,3 @@
-أكيد! تفضل النسخة الجاهزة للنسخ بالكامل:
 
 ---
 
@@ -44,5 +43,3 @@ Fork the repo and contribute improvements or new features. Pull Requests and Iss
 **Salah Hassan** – Student & Developer
 
 ---
-
-لو حابب أضيف README عربي بنفس التنسيق، قول لي 😄
